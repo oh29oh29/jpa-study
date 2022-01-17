@@ -9,6 +9,9 @@
         <class>com.oh29oh29.jpashop.domain.OrderItem</class>
         <class>com.oh29oh29.jpashop.domain.Delivery</class>
         <class>com.oh29oh29.jpashop.domain.Category</class>
+        <class>com.oh29oh29.jpashop.domain.Album</class>
+        <class>com.oh29oh29.jpashop.domain.Book</class>
+        <class>com.oh29oh29.jpashop.domain.Movie</class>
         <properties>
             <!-- 필수 속성 -->
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>

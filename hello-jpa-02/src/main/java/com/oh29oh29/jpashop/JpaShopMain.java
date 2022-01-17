@@ -1,6 +1,6 @@
 package com.oh29oh29.jpashop;
 
-import com.oh29oh29.jpashop.domain.Member;
+import com.oh29oh29.jpashop.domain.Book;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -17,10 +17,10 @@ public class JpaShopMain {
         tx.begin();
 
         try {
-            final Member member = new Member();
-            member.setId(1L);
-            member.setName("HelloB");
-            em.persist(member);
+            final Book book = new Book();
+            book.setName("JPA");
+            book.setAuthor("테스트");
+            em.persist(book);
 
             tx.commit();
         } catch (Exception e) {
