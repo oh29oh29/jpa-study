@@ -10,3 +10,11 @@ https://www.h2database.com/html/main.html
 - 엔티티 매니저 팩토리는 애플리케이션 전체에서 하나만 생성 및 공유해야 한다.
 - 엔티티 매니저는 쓰레드간에 공유하면 안된다. 
 - JPA 의 모든 데이터 변경은 트랜잭션 안에서 실행해야 한다.
+
+### 오류 해결  
+```
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database "/Users/oh29oh29/hellojpa" not found, and IFEXISTS=true, so we cant auto-create it
+```
+
+H2 콘솔에서 초기에 가장 먼저 jdbc:h2:~/hellojpa '연결' 후
+jdbc:h2:tcp://localhost/~/hellojpa 로 다시 접속
