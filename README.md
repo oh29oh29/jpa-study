@@ -15,3 +15,6 @@
 
 [Hello JPA 04](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-04)  
 자바 프로젝트에서 엔티티 다대일(N:1) 양방향 실습
+
+[Hello JPA 05](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-05)  
+자바 프로젝트에서 엔티티 일대다(1:N) 단방향 실습
