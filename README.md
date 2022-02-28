@@ -24,3 +24,6 @@
 
 [Hello JPA 07](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-07)  
 자바 프로젝트에서 엔티티 일대일(1:1) 주 테이블에 외래 키 단방향
+
+[Hello JPA 08](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-08)  
+자바 프로젝트에서 엔티티 일대일(1:1) 주 테이블에 외래 키 양방향
