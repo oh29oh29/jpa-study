@@ -36,3 +36,9 @@
 
 [Hello JPA 11](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-11)  
 자바 프로젝트에서 엔티티 상속관계 매핑 - 조인 전략
+
+[Hello JPA 12](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-12)  
+자바 프로젝트에서 엔티티 상속관계 매핑 - 단일 테이블 전략
+
+[Hello JPA 13](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-13)  
+자바 프로젝트에서 엔티티 상속관계 매핑 - 구현 클래스마다 테이블 전략
