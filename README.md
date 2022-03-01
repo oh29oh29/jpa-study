@@ -33,3 +33,6 @@
 
 [Hello JPA 10](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-10)  
 자바 프로젝트에서 엔티티 다대다(N:N) 양방향
+
+[Hello JPA 11](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-11)  
+자바 프로젝트에서 엔티티 상속관계 매핑 - 조인 전략
