@@ -19,4 +19,5 @@
 [Hello JPA 13](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-13) 자바 프로젝트에서 엔티티 상속관계 매핑 - 구현 클래스마다 테이블 전략  
 [Hello JPA 14](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-14) 자바 프로젝트에서 엔티티 @MappedSuperclass 매핑 정보 상속  
 [Hello JPA 15](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-15) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 프록시  
-[Hello JPA 16](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-16) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 지연 로딩   
+[Hello JPA 16](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-16) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 지연 로딩  
+[Hello JPA 17](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-17) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 즉시 로딩과 N + 1  
