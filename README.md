@@ -21,3 +21,4 @@
 [Hello JPA 15](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-15) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 프록시  
 [Hello JPA 16](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-16) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 지연 로딩  
 [Hello JPA 17](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-17) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 즉시 로딩과 N + 1  
+[Hello JPA 18](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-18) 자바 프로젝트에서 엔티티 프록시와 연관관계 정리 - 영속성 전이(CASCADE)와 고아 객체  
