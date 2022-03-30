@@ -24,3 +24,4 @@
 [Hello JPA 18](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-18) 엔티티 프록시와 연관관계 정리 - 영속성 전이(CASCADE)와 고아 객체  
 [Hello JPA 19](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-19) 엔티티 값 타입 - 임베디드 타입  
 [Hello JPA 20](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-20) 엔티티 값 타입 - 값 타입 컬렉션  
+[Hello JPA 21](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-21) 객체지향 쿼리 언어 - 기본 문법 - JPQL  
