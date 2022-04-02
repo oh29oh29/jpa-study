@@ -27,3 +27,4 @@
 [Hello JPA 21](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-21) 객체지향 쿼리 언어 - 기본 문법 - JPQL  
 [Hello JPA 22](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-22) 객체지향 쿼리 언어 - 기본 문법 - 프로젝션  
 [Hello JPA 23](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-23) 객체지향 쿼리 언어 - 기본 문법 - 페이징  
+[Hello JPA 24](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-24) 객체지향 쿼리 언어 - 기본 문법 - 조인  
