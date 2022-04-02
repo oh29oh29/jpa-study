@@ -25,3 +25,5 @@
 [Hello JPA 19](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-19) 엔티티 값 타입 - 임베디드 타입  
 [Hello JPA 20](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-20) 엔티티 값 타입 - 값 타입 컬렉션  
 [Hello JPA 21](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-21) 객체지향 쿼리 언어 - 기본 문법 - JPQL  
+[Hello JPA 22](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-22) 객체지향 쿼리 언어 - 기본 문법 - 프로젝션  
+[Hello JPA 23](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-23) 객체지향 쿼리 언어 - 기본 문법 - 페이징  
