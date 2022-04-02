@@ -30,3 +30,4 @@
 [Hello JPA 24](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-24) 객체지향 쿼리 언어 - 기본 문법 - 조인  
 [Hello JPA 25](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-25) 객체지향 쿼리 언어 - 기본 문법 - 서브 쿼리  
 [Hello JPA 26](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-26) 객체지향 쿼리 언어 - 기본 문법 - JPQL 타입 표현과 기타식  
+[Hello JPA 27](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-27) 객체지향 쿼리 언어 - 기본 문법 - 조건식(CASE 등등)  
