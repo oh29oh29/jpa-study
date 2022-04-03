@@ -32,3 +32,4 @@
 [Hello JPA 26](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-26) 객체지향 쿼리 언어 - 기본 문법 - JPQL 타입 표현과 기타식  
 [Hello JPA 27](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-27) 객체지향 쿼리 언어 - 기본 문법 - 조건식(CASE 등등)  
 [Hello JPA 28](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-28) 객체지향 쿼리 언어 - 기본 문법 - JPQL 기본 함수와 사용자 정의 함수  
+[Hello JPA 29](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-29) 객체지향 쿼리 언어 - 중급 문법 - 경로 표현식  
