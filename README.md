@@ -35,3 +35,4 @@
 [Hello JPA 29](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-29) 객체지향 쿼리 언어 - 중급 문법 - 경로 표현식  
 [Hello JPA 30](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-30) 객체지향 쿼리 언어 - 중급 문법 - 페치 조인  
 [Hello JPA 31](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-31) 객체지향 쿼리 언어 - 중급 문법 - 엔티티 직접 사용  
+[Hello JPA 32](https://github.com/oh29oh29/jpa-study/tree/master/hello-jpa-32) 객체지향 쿼리 언어 - 중급 문법 - Named 쿼리  
