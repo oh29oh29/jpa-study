@@ -32,4 +32,5 @@ include 'hello-jpa-30'
 include 'hello-jpa-31'
 include 'hello-jpa-32'
 include 'hello-jpa-33'
+include 'hello-spring-jpa-001'
 
