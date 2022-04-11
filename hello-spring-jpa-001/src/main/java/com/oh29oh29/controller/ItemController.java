@@ -1,12 +1,15 @@
 package com.oh29oh29.controller;
 
 import com.oh29oh29.domain.item.Book;
+import com.oh29oh29.domain.item.Item;
 import com.oh29oh29.service.ItemService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+
+import java.util.List;
 
 @Controller
 @RequiredArgsConstructor
@@ -31,5 +34,12 @@ public class ItemController {
 
         itemService.saveItem(book);
         return "redirect:/";
+    }
+
+    @GetMapping("/items")
+    public String list(Model model) {
+        final List<Item> items = itemService.findItems();
+        model.addAttribute("items", items);
+        return "items/itemList";
     }
 }
