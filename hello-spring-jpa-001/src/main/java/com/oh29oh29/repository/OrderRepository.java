@@ -25,4 +25,14 @@ public class OrderRepository {
         return em.createQuery("select o from Order o join o.member m", Order.class)
                 .getResultList();
     }
+
+    public List<Order> findAllByString(OrderSearch orderSearch) {
+        /**
+         * orderSearch 유무에 따라 분기를 통해 JPQL 완성할 수 있다
+         * 권장하지 않는 방법
+         * */
+
+        return em.createQuery("select o from Order o join o.member m", Order.class)
+                .getResultList();
+    }
 }
